@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="title description">
+  <title id="title">램 누수가 해결되지 않은 버전입니다.</title>
+  <desc id="description">최신 버전 0.7.8 다운로드를 권장합니다.</desc>
+  <rect x="2" y="2" width="1196" height="216" rx="14" fill="#fff4f4" stroke="#cf222e" stroke-width="4"/>
+  <g fill="#cf222e" font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-weight="700">
+    <text x="38" y="92" font-size="58">램 누수가 해결되지 않은 버전입니다.</text>
+    <text x="38" y="166" font-size="42">최신 버전 0.7.8 다운로드를 권장합니다.</text>
+  </g>
+</svg>
